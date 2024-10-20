@@ -1,1 +1,1 @@
-# odin-calculator
+# etch-a-sketch
